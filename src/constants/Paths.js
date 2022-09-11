@@ -1,0 +1,13 @@
+export const HOME = "/";
+export const EMPLOYEE = "/employee";
+export const DEPARTMENT = "/department";
+export const DASHBOARD = "/dashboard";
+export const BOOKINGS = "/booking";
+export const ACCOMODATION = "/accomodation";
+export const INVESTMENT = "/investment";
+export const SHARE_FUND = "/share";
+export const SUPPORT = "/support";
+export const REFFERAL = "/refferal";
+export const ACCOUNT = "/account";
+export const ADMIN = "/admin";
+export const PASSWORD_FORGET = "/pw-forget";
